@@ -1,16 +1,35 @@
 {
   "products": [
     {
-      "name": "Produit 1",
-      "price": 100
+      "nom": "iPhone 13",
+      "prix": 12000,
+      "stock": 5,
+      "categorie": "Phone"
     },
-    {}
-  ],
-  "orders": [
     {
-      "product": "Produit 1",
-      "quantity": 2
+      "nom": "Samsung Galaxy S22",
+      "prix": 10000,
+      "stock": 3,
+      "categorie": "Phone"
     },
-    {}
-  ]
+    {
+      "nom": "MacBook Pro",
+      "prix": 20000,
+      "stock": 2,
+      "categorie": "Laptop"
+    },
+    {
+      "nom": "Dell XPS",
+      "prix": 18000,
+      "stock": 4,
+      "categorie": "Laptop"
+    },
+    {
+      "nom": "AirPods",
+      "prix": 1500,
+      "stock": 10,
+      "categorie": "Accessories"
+    }
+  ],
+  "orders": []
 }
